@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>JAVAStudy7-IO流</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/aIO流的理解/001-什么是IO.png</name>
+			<type>1</type>
+			<location>G:/BaiduNetdiskDownload/001-JavaSE课堂笔记+思维导图/09-JavaSE进阶每章课堂画图/06-IO流/001-什么是IO.png</location>
+		</link>
+	</linkedResources>
+</projectDescription>
