@@ -20,7 +20,7 @@ import java.io.Serializable;
  */
 
 
-public class ObjectOutputStreamTest01 {
+public class ObjectOutputStreamTest {
 	
 	public static void main(String[] args) {
 		
